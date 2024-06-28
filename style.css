@@ -39,33 +39,36 @@
     flex: 1;
     font-size: 45px;
   } */
+   
   .calculator__result-primary{
-    background: transparent;
+
     color: #ebebeb;
-    border: none;
+
+    
   }
   
   .calculator__result-primary, .calculator__result-secondary {
     display: flex;
-    right: 100px;
+    
     justify-content: flex-end;
     margin: 20px 0;
     text-align: right;
-
+    border: none;
     font-size: 45px;
-    width: 340px;
-    
+    width: 310px;
+    background: transparent;
    
 
   }
   
   .calculator__result-secondary {
     visibility: hidden;
-    width: 100%;
+    width: 100%;  
     font-weight: 400;
     font-size: 1.2rem;
     margin-bottom: 10px;
-    color: #4b4b4b;
+    color: #adadad;
+    width: 310px;
   }
   
   
@@ -85,14 +88,14 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(5, 1fr);
-    grid-gap: 10px;
+    /* grid-gap: 10px; */
   }
   
   .calculator__btn {
     border: 0;
     outline: 0;
     width: 60px;
-    height: 60px;
+    height: 50px;
     border-radius: 10px;
     background: transparent;
     font-size: 20px;
@@ -112,13 +115,13 @@
 
   .calculator__btn--backspace {
     background: url("./images/icons8-backspace-24.png") center no-repeat;
-    background-color: #adadad;
+    /* background-color: #adadad; */
     
   }
  
   .calculator__btn--whice {
     background: url("./images/icons8-time-machine-24.png") center no-repeat;
-    background-color: #adadad;
+    /* background-color: #adadad; */
   }
 
   
