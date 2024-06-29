@@ -1,7 +1,7 @@
 # Calculator
 minimalistic basic calculator.
 
-![Calculator_-группа-smoll-progek-—-Яндекс-Браузер-2024-06-29-21-59-47](https://github.com/SmallBulka/Calculator/assets/122897953/750dfae2-66ee-4ac1-be78-7ac9b02d1601)
+![Calculator](https://github.com/SmallBulka/Calculator/assets/122897953/f24818a1-6bcf-4840-b4ae-d497e41f598a)
 
 ## Features
 
