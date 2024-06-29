@@ -42,7 +42,7 @@
    
   .calculator__result-primary{
 
-    color: #ebebeb;
+    color:var(--primary-color);
 
     
   }
@@ -114,7 +114,7 @@
   
 
   .calculator__btn--backspace {
-    background: url("./images/icons8-backspace-24.png") center no-repeat;
+    background: url("./images/icons8-backspace.png") center no-repeat;
     /* background-color: #adadad; */
     
   }
